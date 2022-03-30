@@ -136,7 +136,7 @@ app.set('roomList', roomList)
 app.use('/room', roomRouter)
 
 app.get('/', (req, res) => {
-  res.redirect('/room/@demo')
+  res.redirect('/room/@main')
 });
 
 app.get('/filter', (req, res) => {
