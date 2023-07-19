@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "fastscan": "^1.0.6",
     "moment": "^2.27.0",
-    "mongoose": "^5.9.28",
+    "mongoose": "^5.13.20",
     "socket.io": "2.1.1",
     "sqlite3": "^5.0.0",
     "xss": "^1.0.8",
